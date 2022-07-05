@@ -1,0 +1,14 @@
+1)Angular 12 Install
+2)Angular 12- Create new project
+3)Install Angular Material
+4)Services
+5)Routing
+6)CRUD Operations
+7)Validations
+9)Reacctive Forms
+10)Modules
+11)Pipe
+12)Http Interceptor
+13)lazy Loading
+14)Typecasting
+15)Data Table
